@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#FF6750A4</color>
+    <string name="app_name">今日灵感</string>
+    <style name="Theme.DailyInspiration" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
